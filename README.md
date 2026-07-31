@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer & Freelance Tech Builder 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0061FF&width=435&lines=Computer+Science+Student;Building+Full-Stack+Web+Applications;Open+for+Projects" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0061FF&width=435&lines=Computer+Science+Student;Building+Full-Stack+Web+Applications;Open+for+Projects" alt="Typing SVG" /></a>
 </p>
 
 ---
